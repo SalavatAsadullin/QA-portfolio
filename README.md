@@ -11,9 +11,7 @@
 Осваиваю теорию, тест-дизайн и инструменты, применяю знания
 на практике на реальных проектах.
 
-📧 asadullin.salavat@gmail.com
-📄 [Резюме на HH](#) (добавь ссылку)
-
+📧 salavatasadullin2114@gmail.com
 ---
 
 ## Проекты
@@ -34,10 +32,9 @@
 - Оформление заказа
 - Валидация полей форм
 
-**Артефакты:**
-- 📋 [Тест-кейсы](aquatoria-app/test-cases/)
-- 🐛 [Баг-репорты](aquatoria-app/bug-reports/)
-- ✅ [Чек-листы](aquatoria-app/checklists/)
+- 📋 [Тест-кейсы](aquatoria-app/TestCases.md)
+- 🐛 [Баг-репорты](aquatoria-app/bug-reports/BUG-001.md)
+- ✅ [Чек-листы](aquatoria-app/checklists/validation.md)
 
 ---
 
