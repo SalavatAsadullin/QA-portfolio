@@ -75,7 +75,7 @@ qa-portfolio/
 └── aquatoria-app/
     ├── TestCases.md
     ├── bug-reports/
-    │   └── BUG-001.md
+    │   └── BugReports.md
     └── checklists/
         └── validation.md
 ```
